@@ -1,0 +1,9 @@
+.bar {
+  padding: 20px;
+}
+
+.bar-child {
+  background-color: red;
+  height: 10px;
+  margin: 10px;
+}
